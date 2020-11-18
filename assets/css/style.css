@@ -118,7 +118,7 @@ p {
   padding: 0 32px;
   font-size: 16px;
   line-height: 48px;
-  color: #0067f4;
+  color: #50C1DE;
   cursor: pointer;
   z-index: 5;
   -webkit-transition: all 0.4s ease-out 0s;
@@ -264,7 +264,7 @@ p {
           content: '';
           width: 8px;
           height: 4px;
-          background-color: #0067f4;
+          background-color: #50C1DE;
           left: 50%;
           margin: 0 2px;
           bottom: 14px;
@@ -284,7 +284,7 @@ p {
           left: auto;
           right: 50%; }
       .navgition .navbar .navbar-nav .nav-item.active > a, .navgition .navbar .navbar-nav .nav-item:hover > a {
-        color: #0067f4; }
+        color: #50C1DE; }
         .navgition .navbar .navbar-nav .nav-item.active > a::before, .navgition .navbar .navbar-nav .nav-item.active > a::after, .navgition .navbar .navbar-nav .nav-item:hover > a::before, .navgition .navbar .navbar-nav .nav-item:hover > a::after {
           opacity: 1; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -318,7 +318,7 @@ p {
         -o-transition: all 0.3s ease-out 0s;
         transition: all 0.3s ease-out 0s; }
         .navgition .navbar .navbar-social ul li a:hover {
-          color: #0067f4; }
+          color: #50C1DE; }
 
 .header-hero {
   height: 850px;
@@ -328,7 +328,7 @@ p {
       height: 700px; } }
   @media (max-width: 767px) {
     .header-hero {
-      height: 650px; } }
+      height: 1055px; } }
   .header-hero::before {
     position: absolute;
     content: '';
@@ -350,18 +350,19 @@ p {
       .header-hero .header-content {
         padding-top: 120px; } }
     .header-hero .header-content .header-title {
-      font-size: 44px;
-      line-height: 55px;
+      font-size: 33px;
+      line-height: 44px;
       color: #121212;
       font-weight: 600; }
       @media (max-width: 767px) {
         .header-hero .header-content .header-title {
-          font-size: 30px;
-          line-height: 40px; } }
+          font-size: 25px;
+          line-height: 35px; } }
     .header-hero .header-content .text {
       font-size: 20px;
       line-height: 32px;
       color: #6c6c6c;
+      background-color: aliceblue;
       margin-top: 16px; }
       @media (max-width: 767px) {
         .header-hero .header-content .text {
@@ -392,9 +393,9 @@ p {
               height: 100%;
               top: 0;
               left: 0;
-              background-image: -webkit-linear-gradient(left, #0067f4, #2bdbdc);
-              background-image: -o-linear-gradient(left, #0067f4, #2bdbdc);
-              background-image: linear-gradient(to right, #0067f4, #2bdbdc);
+              background-image: -webkit-linear-gradient(left, #50C1DE, #2bdbdc);
+              background-image: -o-linear-gradient(left, #50C1DE, #2bdbdc);
+              background-image: linear-gradient(to right, #50C1DE, #2bdbdc);
               background-position: right center;
               z-index: -1;
               -webkit-transition: all 0.3s ease-out 0s;
@@ -403,9 +404,9 @@ p {
               -o-transition: all 0.3s ease-out 0s;
               transition: all 0.3s ease-out 0s; }
             .header-hero .header-content .header-btn li a.main-btn.btn-one:hover::before {
-              background-image: -webkit-linear-gradient(right, #0067f4, #2bdbdc);
-              background-image: -o-linear-gradient(right, #0067f4, #2bdbdc);
-              background-image: linear-gradient(to left, #0067f4, #2bdbdc);
+              background-image: -webkit-linear-gradient(right, #50C1DE, #2bdbdc);
+              background-image: -o-linear-gradient(right, #50C1DE, #2bdbdc);
+              background-image: linear-gradient(to left, #50C1DE, #2bdbdc);
               background-position: left center;
               -webkit-transition: all none ease-out 0s;
               -moz-transition: all none ease-out 0s;
@@ -442,7 +443,7 @@ p {
 
 .services-content .services-icon i {
   font-size: 64px;
-  color: #0067f4; }
+  color: #50C1DE; }
 
 .services-content .services-content {
   padding-left: 15px; }
@@ -592,15 +593,15 @@ p {
           font-size: 16px;
           margin-top: 16px; } }
       .single-pricing .pricing-list ul li i {
-        color: #0067f4;
+        color: #50C1DE;
         margin-right: 8px; }
   .single-pricing .pricing-btn {
     margin-top: 42px; }
     .single-pricing .pricing-btn .main-btn {
-      background-color: #0067f4;
+      background-color: #50C1DE;
       border-radius: 50px;
       color: #fff;
-      border-color: #0067f4; }
+      border-color: #50C1DE; }
       .single-pricing .pricing-btn .main-btn:hover {
         background-color: #005ad5;
         border-color: #005ad5; }
@@ -613,7 +614,7 @@ p {
 .single-pricing.pro .pricing-header .sub-title::before {
   right: auto;
   left: 0;
-  background-color: #0067f4; }
+  background-color: #50C1DE; }
 
 .single-pricing.pro .pricing-baloon {
   position: absolute;
@@ -624,7 +625,7 @@ p {
 .single-pricing.enterprise .pricing-header .sub-title::before {
   right: 0;
   left: auto;
-  background-color: #0067f4; }
+  background-color: #50C1DE; }
 
 .single-pricing.enterprise .pricing-flower {
   position: absolute;
@@ -647,7 +648,7 @@ p {
     5.CALL TO ACTION css 
 ===========================*/
 .call-to-action {
-  background-color: #0067f4;
+  background-color: #50C1DE;
   position: relative; }
 
 .call-action-image {
@@ -702,7 +703,7 @@ p {
     margin: 24px auto 0; }
     .call-action-content .call-newsletter i {
       font-size: 26px;
-      color: #0067f4;
+      color: #50C1DE;
       position: absolute;
       left: 18px;
       top: 15px; }
@@ -739,7 +740,7 @@ p {
       position: absolute;
       top: 4px;
       right: 4px;
-      background-color: #0067f4;
+      background-color: #50C1DE;
       -webkit-transition: all 0.3s ease-out 0s;
       -moz-transition: all 0.3s ease-out 0s;
       -ms-transition: all 0.3s ease-out 0s;
@@ -751,7 +752,7 @@ p {
           right: auto;
           margin-top: 15px;
           background-color: #fff;
-          color: #0067f4; } }
+          color: #50C1DE; } }
       .call-action-content .call-newsletter button:hover {
         background-color: #005ad5;
         color: #fff; }
@@ -819,7 +820,7 @@ p.form-message.error {
     resize: none; }
   .contact-form .single-form .main-btn {
     border-radius: 50px;
-    background-color: #0067f4;
+    background-color: #50C1DE;
     color: #fff; }
     .contact-form .single-form .main-btn:hover {
       background-color: #005ad5; }
@@ -862,7 +863,7 @@ p.form-message.error {
       -o-transition: all 0.3s ease-out 0s;
       transition: all 0.3s ease-out 0s; }
       .footer-logo-support .footer-logo .social li a:hover {
-        color: #0067f4; }
+        color: #50C1DE; }
 
 .footer-logo-support .footer-support span {
   font-size: 20px;
@@ -900,7 +901,7 @@ p.form-message.error {
       -o-transition: all 0.3s ease-out 0s;
       transition: all 0.3s ease-out 0s; }
       .footer-link ul li a:hover {
-        color: #0067f4; }
+        color: #50C1DE; }
 
 .footer-newsletter {
   margin-top: 32px; }
@@ -958,7 +959,7 @@ p.form-message.error {
   line-height: 50px;
   border-radius: 50%;
   text-align: center;
-  background-color: #0067f4;
+  background-color: #50C1DE;
   bottom: 10px;
   right: 20px;
   z-index: 999;
@@ -971,3 +972,76 @@ p.form-message.error {
   .back-to-top:hover {
     background-color: #005ad5;
     color: #fff; }
+
+  /*===========================
+      5.IELTS support tools css 
+===========================*/
+.support-tools {
+  padding-top: 120px;
+  padding-bottom: 120px; }
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .support-tools {
+      padding-top: 100px;
+      padding-bottom: 100px; } }
+  @media (max-width: 767px) {
+    .support-tools {
+      padding-top: 80px;
+      padding-bottom: 80px; } }
+
+ /*
+      4.Results css 
+===========================*/
+.results-details {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #f4f6f7; }
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .results-details {
+      padding-top: 100px;
+      padding-bottom: 100px; } }
+  @media (max-width: 767px) {
+    .results-details {
+      padding-top: 80px;
+      padding-bottom: 80px; } }
+.testimonial-image {
+  padding: 10%;
+}
+
+.single-testimonial {
+   background-color:#fff; 
+  /* padding:30px; */
+  -webkit-box-shadow: 0 0 20px 0 rgba(0, 0, 0, .1);
+  -moz-box-shadow: 0 0 20px 0 rgba(0, 0, 0, .1);
+  /* box-shadow:0 0 20px 0 rgba(0,0,0,.1); */
+}
+
+/*.single-testimonial .testimonial-image img {
+  width: 90px;
+  border-radius: 50%;
+  display: inline-block
+}
+
+.single-testimonial .testimonial-content {
+  padding-top: 25px
+}
+
+.single-testimonial .testimonial-content .text {
+  font-size: 16px;
+  line-height: 24px;
+  color: #121212;
+  border-bottom: 1px solid #cbced1;
+  padding-bottom: 24px
+}
+
+.single-testimonial .testimonial-content .author-name {
+  font-size: 18px;
+  font-weight: 600;
+  color: #121212;
+  margin-top: 24px
+}
+
+.single-testimonial .testimonial-content .sub-title {
+  font-size: 14px;
+  line-height: 24px;
+  color: #a4a4a4
+}*/
