@@ -369,7 +369,8 @@ p {
           font-size: 16px;
           line-height: 24px; } }
     .header-hero .header-content .header-btn {
-      margin-top: 22px; }
+      margin-top: 22px;
+      text-align: center; }
       .header-hero .header-content .header-btn li {
         display: inline-block;
         margin: 10px 10px 0; }
@@ -442,7 +443,7 @@ p {
       padding-bottom: 80px; } }
 
 .services-content .services-icon i {
-  font-size: 64px;
+  font-size: 28px;
   color: #50C1DE; }
 
 .services-content .services-content {
@@ -1004,7 +1005,7 @@ p.form-message.error {
       padding-top: 80px;
       padding-bottom: 80px; } }
 .testimonial-image {
-  padding: 10%;
+  padding: 5%;
 }
 
 .single-testimonial {
