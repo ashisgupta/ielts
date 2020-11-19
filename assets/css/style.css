@@ -649,7 +649,7 @@ p {
     5.CALL TO ACTION css 
 ===========================*/
 .call-to-action {
-  background-color: #50C1DE;
+  background-color: #D28235;
   position: relative; }
 
 .call-action-image {
@@ -1046,3 +1046,22 @@ p.form-message.error {
   line-height: 24px;
   color: #a4a4a4
 }*/
+
+.float{
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:40px;
+  right:40px;
+  background-color:#25d366;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size:30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+  margin-top:16px;
+}
