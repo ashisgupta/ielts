@@ -170,3 +170,74 @@ $('.ratings-active').slick({
 });
 
 });
+
+
+$(function() {
+    $('#reused_form').submit(function(e)
+      {
+        e.preventDefault();
+        $form = $(this);
+
+        alert("called");
+        console.log($form.serialize());
+        //show some response on the button
+        $('button[type="submit"]', $form).each(function()
+        {
+            $btn = $(this);
+            $btn.prop('type','button' );
+            $btn.prop('orig_label',$btn.text());
+            $btn.text('Sending ...');
+        });
+
+
+            $.ajax({
+                type: "POST",
+                url: 'processform.php',
+                data: $form.serialize(),
+                dataType: 'json',
+                success: function(data, textStatus, jqXHR)
+                    {
+                        //data - response from server
+                    },
+                    error: function (jqXHR, textStatus, errorThrown)
+                    {
+                 
+                    }
+            });
+
+      });
+
+    $('#contact-form').submit(function(e)
+      {
+        e.preventDefault();
+        $form = $(this);
+        
+        alert("called");
+        console.log($form.serialize());
+        //show some response on the button
+        $('button[type="submit"]', $form).each(function()
+        {
+            $btn = $(this);
+            $btn.prop('type','button' );
+            $btn.prop('orig_label',$btn.text());
+            $btn.text('Sending ...');
+        });
+
+
+            $.ajax({
+                type: "POST",
+                url: 'processform.php',
+                data: $form.serialize(),
+                dataType: 'json',
+                success: function(data, textStatus, jqXHR)
+                    {
+                        //data - response from server
+                    },
+                    error: function (jqXHR, textStatus, errorThrown)
+                    {
+                 
+                    }
+            });
+
+      });
+});
