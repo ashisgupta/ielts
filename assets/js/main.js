@@ -178,7 +178,7 @@ $(function() {
         e.preventDefault();
         $form = $(this);
 
-        alert("called");
+       // alert("called");
         console.log($form.serialize());
         //show some response on the button
         $('button[type="submit"]', $form).each(function()
@@ -197,11 +197,12 @@ $(function() {
                 dataType: 'json',
                 success: function(data, textStatus, jqXHR)
                     {
+                        console.log("success",data, textStatus, jqXHR);
                         //data - response from server
                     },
                     error: function (jqXHR, textStatus, errorThrown)
                     {
-                 
+                      console.log("Error",errorThrown, textStatus, jqXHR);
                     }
             });
 
