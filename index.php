@@ -376,7 +376,7 @@
                         	</div>
                         	<div class=col-sm-6>
                         		<div class="pricing-btn text-center">
-		                            <a class="main-btn" href="#" style="padding: 0 14px !important; font-size: 11px;font-weight: 400;">Download Schedule</a>
+		                            <a class="main-btn" href="http://ieltscourse.southwardsielts.com/UPCOMING_BATCH_SCHEDULE.pdf" style="padding: 0 14px !important; font-size: 11px;font-weight: 400;">Download Schedule</a>
 		                        </div>
                         	</div>
                         </div>
