@@ -146,7 +146,7 @@
                                 GET THE IELTS SCORES YOU NEED
                             </h3>
                             <p class=" text-center">
-                                <h6 style="color: white;padding: 3%;text-align: justify;">
+                                <h5 style="color: white;padding: 3%;text-align: justify;">
                                     A well-crafted Course designed to help you get your desired scores on the first attempt. The most EFFECTIVE AND PROVEN STRATEGIES EVER on IELTS will help you understand and remember the concepts. If you're KEEN to get the scores you need, join my 40-Day Online Live Regular Course. See what's included:
                                 </h6>
                             </p>
@@ -193,10 +193,10 @@
                                     Listening
                                 </h4>
                                 <ul style="text-align: justify;line-height: 30px;font-size: 20px;">
-                                    <li><i class="lni lni-pointer-right"></i>Format of the test</li>
-                                    <li><i class="lni lni-pointer-right"></i>Types of questions</li>
-                                    <li><i class="lni lni-pointer-right"></i>Common reasons of failure</li>
-                                    <li><i class="lni lni-pointer-right"></i>Step by step strategy for all the types of questions</li>
+                                    <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Format of the test</li>
+                                    <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Types of questions</li>
+                                    <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Common reasons of failure</li>
+                                    <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Step by step strategy for all the types of questions</li>
                                 </ul>
 
                             </div>
@@ -213,11 +213,11 @@
                                 </h4>
                                 <p class="text text-center">
                                     <ul style="text-align: justify;line-height: 30px;font-size: 20px;">
-                                        <li><i class="lni lni-pointer-right"></i>Format of the test</li>
-                                        <li><i class="lni lni-pointer-right"></i>Types of questions</li>
-                                        <li><i class="lni lni-pointer-right"></i>Common reasons of failure</li>
-                                        <li><i class="lni lni-pointer-right"></i>Reasons why you should not read every word and sentence</li>
-                                        <li><i class="lni lni-pointer-right"></i>Step by step strategy for all the types of questions</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Format of the test</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Types of questions</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Common reasons of failure</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Reasons why you should not read every word and sentence</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Step by step strategy for all the types of questions</li>
                                     </ul>
                                 </p>
                             </div>
@@ -234,17 +234,17 @@
                                 </h4>
 
                                 <ul style="text-align: justify;line-height: 30px;font-size: 20px;">
-                                    <li><i class="lni lni-pointer-right"></i>Introduction to Task 1</li>
-                                    <li><i class="lni lni-pointer-right"></i>Types of questions</li>
-                                    <li><i class="lni lni-pointer-right"></i>Official Marking Scheme</li>
-                                    <li><i class="lni lni-pointer-right"></i>My six steps approach to Band 7 or above </li>
-                                    <li><i class="lni lni-pointer-right"></i>How to craft a Band 9 purpose statement (GT)</li>
-                                    <li><i class="lni lni-pointer-right"></i>How to write a Band 9 Paragraphs covering bullet points (GT)</li>
-                                    <li><i class="lni lni-pointer-right"></i>How to write a Band 9 closing statement and sign off (GT)</li>
-                                    <li><i class="lni lni-pointer-right"></i>How to craft a Band 9 introduction (AC)</li>
-                                    <li><i class="lni lni-pointer-right"></i>How to write a Band 9 overview paragraph (AC)</li>
-                                    <li><i class="lni lni-pointer-right"></i>How to write a Band 9 description paragraphs (AC)</li>
-                                    <li><i class="lni lni-pointer-right"></i>One on One Writing assessments of your Task 1</li>
+                                    <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Introduction to Task 1</li>
+                                    <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Types of questions</li>
+                                    <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Official Marking Scheme</li>
+                                    <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>My six steps approach to Band 7 or above </li>
+                                    <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>How to craft a Band 9 purpose statement (GT)</li>
+                                    <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>How to write a Band 9 Paragraphs covering bullet points (GT)</li>
+                                    <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>How to write a Band 9 closing statement and sign off (GT)</li>
+                                    <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>How to craft a Band 9 introduction (AC)</li>
+                                    <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>How to write a Band 9 overview paragraph (AC)</li>
+                                    <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>How to write a Band 9 description paragraphs (AC)</li>
+                                    <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>One on One Writing assessments of your Task 1</li>
                                 </ul>
 
                             </div>
@@ -261,14 +261,14 @@
                                 </h4>
                                 <p class="text text-center">
                                     <ul style="text-align: justify;line-height: 30px;font-size: 20px;">
-                                        <li><i class="lni lni-pointer-right"></i>Introduction to Task 2</li>
-                                        <li><i class="lni lni-pointer-right"></i>Types of questions</li>
-                                        <li><i class="lni lni-pointer-right"></i>Official Marking Scheme</li>
-                                        <li><i class="lni lni-pointer-right"></i>My six steps approach to Band 7 or above essay</li>
-                                        <li><i class="lni lni-pointer-right"></i>How to craft a Band 9 introduction</li>
-                                        <li><i class="lni lni-pointer-right"></i>How to write a Band 9 supporting paragraphs</li>
-                                        <li><i class="lni lni-pointer-right"></i>How to write a Band 9 conclusion</li>
-                                        <li><i class="lni lni-pointer-right"></i>One on One Writing assessments of your Task 2</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Introduction to Task 2</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Types of questions</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Official Marking Scheme</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>My six steps approach to Band 7 or above essay</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>How to craft a Band 9 introduction</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>How to write a Band 9 supporting paragraphs</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>How to write a Band 9 conclusion</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>One on One Writing assessments of your Task 2</li>
                                     </ul>
                                 </p>
                             </div>
@@ -286,12 +286,12 @@
                                 </h4>
                                 <p class="text text-center">
                                     <ul style="text-align: justify;line-height: 30px;font-size: 20px;">
-                                        <li><i class="lni lni-pointer-right"></i>Format of the test</li>
-                                        <li><i class="lni lni-pointer-right"></i>How myths can cause you Bands</li>
-                                        <li><i class="lni lni-pointer-right"></i>Official Marking Scheme</li>
-                                        <li><i class="lni lni-pointer-right"></i>Step by step strategy for all the parts</li>
-                                        <li><i class="lni lni-pointer-right"></i>Unique strategy for Part 2</li>
-                                        <li><i class="lni lni-pointer-right"></i>One on One Video Speaking Assessments</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Format of the test</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>How myths can cause you Bands</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Official Marking Scheme</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Step by step strategy for all the parts</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>Unique strategy for Part 2</li>
+                                        <li><span class="services-icon"><i class="lni lni-check-mark-circle"></i></span>One on One Video Speaking Assessments</li>
                                     </ul>
                                 </p>
                             </div>
@@ -911,7 +911,7 @@
     <!--====== BACK TO TOP PART ENDS ======-->
 
 <!-- Modal -->
-<div id="myModal" class="modal fade" role="dialog">
+<div id="myModal" class="modal fade" role="dialog" style="top:20%;">
   <div class="modal-dialog">
 <!-- Modal content-->
 <div class="modal-content">
